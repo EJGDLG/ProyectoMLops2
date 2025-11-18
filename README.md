@@ -4,17 +4,17 @@ Pipeline completo de Machine Learning con **MLflow**, **ingeniería de features*
 ---
 
 ##  Estructura del Proyecto
-├── data/
-│ ├── raw/ # Datos originales
-│ ├── processed/ # Datos limpios + features
-├── notebooks/ # EDA y experimentos
-├── src/
-│ ├── preprocessing/ # Limpieza y tratamiento
-│ ├── modeling/ # Entrenamiento + MLflow
-│ ├── evaluation/ # Métricas + gráficos
-├── models/ # Modelos entrenados
-├── mlruns/ # Registro MLflow
-└── README.md
+- ── data/
+- │ ├── raw/ # Datos originales
+- │ ├── processed/ # Datos limpios + features
+- ├── notebooks/ # EDA y experimentos
+- ├── src/
+- │ ├── preprocessing/ # Limpieza y tratamiento
+- │ ├── modeling/ # Entrenamiento + MLflow
+- │ ├── evaluation/ # Métricas + gráficos
+- ├── models/ # Modelos entrenados
+- ├── mlruns/ # Registro MLflow
+- └── README.md
 
 
 #  1. Estructura del Dataset
