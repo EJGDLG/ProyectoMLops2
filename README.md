@@ -37,7 +37,7 @@ El dataset final contiene **33 variables**, incluyendo:
 
 #  2. Preparación de los Datos
 
-### ✔ Limpieza
+###  Limpieza
 - 50,000 filas iniciales → sin duplicados.
 - Imputación aplicada a:
   - `monthly_income`  
@@ -62,7 +62,7 @@ Total de **36 features finales**.
 
 ---
 
-# 📈 3. Comprensión de Datos (EDA)
+#  3. Comprensión de Datos (EDA)
 
 Gráficos incluidos en notebooks:
 
@@ -80,7 +80,7 @@ Distribución uniforme → no sesgo demográfico.
 
 #  4. Modelado + MLflow
 
-### ✔ Modelo entrenado
+###  Modelo entrenado
 - Algoritmo base (clasificador simple de referencia)
 - Registro completo con MLflow:
   - parámetros  
